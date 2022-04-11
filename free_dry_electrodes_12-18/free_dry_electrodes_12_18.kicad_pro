@@ -124,13 +124,11 @@
     "equivalence_files": []
   },
   "libraries": {
-    "pinned_footprint_libs": [
-      "1024_dry_electrodes"
-    ],
+    "pinned_footprint_libs": [],
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "1024_dry_electrodes.kicad_pro",
+    "filename": "free_dry_electrodes_12_18.kicad_pro",
     "version": 1
   },
   "net_settings": {
