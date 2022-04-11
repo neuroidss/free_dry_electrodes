@@ -1,0 +1,36 @@
+### Module positions - created on Mon Apr 11 21:29:22 2022 ###
+### Printed by Pcbnew version 6.0.0-rc1-unknown-65cbf2d2b7~144~ubuntu18.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                PosX       PosY       Rot  Side
+REF**     CPA_1     CPA_1                5.2000    -3.0000    0.0000  top
+REF**     CPA_1     CPA_1                3.8500    -4.6000    0.0000  top
+REF**     CPA_1     CPA_1                5.9100    -1.0500    0.0000  top
+REF**     CPA_1     CPA_1                2.0000     3.4600    0.0000  top
+REF**     CPA_1     CPA_1               -2.0500     5.6400    0.0000  top
+REF**     CPA_1     CPA_1               -5.9100     1.0400    0.0000  top
+REF**     CPA_1     CPA_1                0.0000     4.0000    0.0000  top
+REF**     CPA_1     CPA_1               -5.9100    -1.0400    0.0000  top
+REF**     CPA_1     CPA_1               -3.4600    -2.0000    0.0000  top
+REF**     CPA_1     CPA_1               -4.0000     0.0000    0.0000  top
+REF**     CPA_1     CPA_1                0.0000    -4.0000    0.0000  top
+REF**     CPA_1     CPA_1                4.0000     0.0000    0.0000  top
+REF**     CPA_1     CPA_1                3.4600    -2.0000    0.0000  top
+REF**     CPA_1     CPA_1                0.0000    -6.0000    0.0000  top
+REF**     CPA_1     CPA_1               -5.2000     3.0000    0.0000  top
+REF**     CPA_1     CPA_1                5.9100     1.0400    0.0000  top
+REF**     CPA_1     CPA_1                0.0000     6.0000    0.0000  top
+REF**     CPA_1     CPA_1               -3.8500    -4.5900    0.0000  top
+REF**     CPA_1     CPA_1               -5.2000    -3.0000    0.0000  top
+REF**     CPA_1     CPA_1               -3.8600     4.6000    0.0000  top
+REF**     CPA_1     CPA_1               -2.0000     3.4700    0.0000  top
+REF**     CPA_1     CPA_1                2.0500     5.6400    0.0000  top
+REF**     CPA_1     CPA_1               -2.0000    -3.4600    0.0000  top
+REF**     CPA_1     CPA_1               -3.4700     2.0000    0.0000  top
+REF**     CPA_1     CPA_1                3.8600     4.6000    0.0000  top
+REF**     CPA_1     CPA_1                5.1900     3.0000    0.0000  top
+REF**     CPA_1     CPA_1                2.0000    -3.4600    0.0000  top
+REF**     CPA_1     CPA_1                2.0500    -5.6400    0.0000  top
+REF**     CPA_1     CPA_1                3.4600     2.0000    0.0000  top
+REF**     CPA_1     CPA_1               -2.0500    -5.6300    0.0000  top
+## End
