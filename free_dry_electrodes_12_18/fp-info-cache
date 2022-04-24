@@ -1,4 +1,11 @@
-20149259726059694
+20126803947660723
+1024_dry_electrodes
+CPA_1
+
+
+0
+1
+1
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -76229,13 +76236,6 @@ ESP32-S2  ESP32  WIFI
 0
 43
 43
-RF_Module
-ESP32-S3-WROOM-1
-2.4 GHz Wi-Fi and Bluetooth module  https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
-2.4 GHz Wi-Fi and Bluetooth module
-0
-61
-41
 RF_Module
 ESP32-WROOM-32
 Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
