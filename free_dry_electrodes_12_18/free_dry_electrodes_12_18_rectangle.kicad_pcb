@@ -182,8 +182,12 @@
       (net 1 "Net-(J1-Pad1)") (pinfunction "Pin_12") (pintype "passive") (tstamp 637f12be-fa48-4ce4-96b2-04c21a8795c8))
   )
 
+  (gr_circle (center -6.25 -6.25) (end -5.25 -6.25) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 339af272-b753-45be-a8f1-5e3de643d818))
+  (gr_circle (center 6.25 6.25) (end 7.25 6.25) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 4b388659-ef98-4186-8488-deda403a7c87))
+  (gr_circle (center 6.25 -6.25) (end 7.25 -6.25) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 6c003daf-35cc-4fcc-8322-7f90b89ca150))
+  (gr_rect (start 7.75 7.75) (end -7.75 -7.75) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 6c1d0ff6-53d9-4a5b-89a8-5313d6ca7d94))
   (gr_circle (center 0 0) (end 3 0) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 6e06ca07-ff8b-4c78-b39a-a5fe1e23bc6a))
-  (gr_circle (center 0 0) (end 7.75 0) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp a349d333-1a5f-4436-9e07-9dd43b13bf92))
+  (gr_circle (center -6.25 6.25) (end -5.25 6.25) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp a8530597-c866-4443-878b-e67bc7db9be4))
 
   (segment (start 0 6.5) (end 0 4.25) (width 2) (layer "B.Cu") (net 1) (tstamp 009ce997-1584-43ca-93af-c5bcacd4d4e9))
   (segment (start -2.125 6.009872) (end -2.22313 6.108002) (width 2) (layer "B.Cu") (net 1) (tstamp 035aadd0-b2e7-4468-a366-d0a33e42b8b0))
