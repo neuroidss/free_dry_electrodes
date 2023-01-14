@@ -10,5 +10,4 @@ liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
 lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-custom: ["btc:bc1qhg0fvy89naen887l42k6fqrw3k05psf8kfpdal"]
-custom: ["eth:0xf497571f65b41e450d0ac71af29084dc15346415"]
+custom: ["https://explorer.btc.com/btc/address/bc1qhg0fvy89naen887l42k6fqrw3k05psf8kfpdal"]
